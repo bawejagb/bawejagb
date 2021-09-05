@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Baweja</h1>
 <h3 align="center">A passionate Engineer from India</h3>
+<br>
 <img src='https://github.com/Aanvikshiki/Aanvikshiki/blob/main/ai.gif' align='right' width='27%'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanvikshiki&label=Profile%20views&color=0e75b6&style=flat" alt="aanvikshiki" /> </p>
 
 - 📫 How to reach me **gaurav.baweja2508@gmail.com**
 
@@ -55,3 +55,7 @@
 </table>
 
 <br/>
+<p align="center"> 
+  <b>Visitors</b> :<br>
+  <img src="https://profile-counter.glitch.me/Aanvikshiki/count.svg" />
+</p>
