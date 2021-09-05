@@ -14,11 +14,12 @@
 <a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
 </p>
 <img align="right" width="350" alt="Code" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/code.gif"/>
-
+<div>
 <img align="right" width="100" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif">
-
-
-
+</div>
+<div>
+<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
@@ -41,7 +42,7 @@
 
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
+
 
 
 <table width="100%"> 
