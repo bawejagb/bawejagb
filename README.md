@@ -17,7 +17,6 @@
 
 <img align="right" width="150" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/>
 
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
