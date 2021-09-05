@@ -17,6 +17,7 @@
 
 <img align="right" width="100" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif">
 
+<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -40,4 +41,4 @@
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanvikshiki&show_icons=true&locale=en&layout=compact" alt="aanvikshiki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&locale=en" alt="aanvikshiki" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&locale=en" alt="aanvikshiki" /></p>
