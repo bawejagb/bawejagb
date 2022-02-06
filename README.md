@@ -44,9 +44,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-<p align="center"> 
-  <b>Visitors</b> :<br>
-  <img src="https://profile-counter.glitch.me/Aanvikshiki/count.svg" />
-</p>
