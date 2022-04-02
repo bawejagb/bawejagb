@@ -44,7 +44,7 @@ def MyLife(){
 - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
 - <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
+- <img align="left" alt="Git" width="22px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" /> **Git**
 
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
