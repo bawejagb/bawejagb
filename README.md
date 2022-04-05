@@ -42,7 +42,7 @@ def MyLife(){
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />   **C++**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
-- <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
+- <img align="left" alt="SQL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Git" width="22px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" /> **Git**
 
