@@ -18,7 +18,7 @@ def MyLife(){
 <br>
 
 <br>
-<img src='https://github.com/Aanvikshiki/Aanvikshiki/blob/main/ai.gif' align='right' width='27%'>
+<img align="right" src='https://github.com/Aanvikshiki/Aanvikshiki/blob/main/ai.gif' align='right' width='27%'>
 
 - 📫 How to reach me **gaurav.baweja2508@gmail.com**
 
