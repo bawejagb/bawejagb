@@ -40,12 +40,12 @@ def MyLife(){
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />   **C**
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />   **C++**
-- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
-- <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
-- <img align="left" alt="SQL" width="22px" src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1642082724" />  **SQL**
+- <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  **Java Script**
+- <img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" />  **React.js**
+- <img align="left" alt="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />  **Redux.js**
+- <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Git" width="22px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" /> **Git**
-
+- <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
 
