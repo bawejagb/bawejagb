@@ -43,9 +43,9 @@ def MyLife(){
 - <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  **Java Script**
 - <img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" />  **React.js**
 - <img align="left" alt="Redux" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />  **Redux.js**
-- <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
+- <img align="left" alt="SQL" width="22px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
+- <img align="left" alt="Git" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> **Git**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
 
