@@ -51,5 +51,8 @@ def MyLife(){
 
 <hr/>
 <br/>
+<h3> My Activity</h3> 
 
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=aanvikshiki&theme=github" width="400">
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanvikhiki&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
+
+<br/> 
