@@ -49,15 +49,7 @@ def MyLife(){
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
 
+<hr/>
+<br/>
 
-
-<table width="100%"> 
-  <tr>
-    <td width="50%">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&locale=en" alt="aanvikshiki" /></p>
-    </td>
-    <td width="40%">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanvikshiki&show_icons=true&locale=en&layout=compact" alt="aanvikshiki" /></p>
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=aanvikshiki&theme=github" width="400">
