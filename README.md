@@ -53,6 +53,6 @@ def MyLife(){
 <br/>
 <h3> My Activity</h3> 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanvikhiki&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanvikshiki&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
 
 <br/> 
