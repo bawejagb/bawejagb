@@ -49,7 +49,12 @@ def MyLife(){
 
 
 <hr/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<a href="https://github.com/Aanvikshiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aanvikshiki&theme=dracula&line_height=27&show_icons=true&include_all_commits=true&count_private=true" alt="Gaurav's GitHub Stats" />
+</a>
+<a href="https://github.com/Aanvikshiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanvikshiki&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" />
+</a>
 <br/>
 <h3> My Activity</h3> 
 
