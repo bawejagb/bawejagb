@@ -17,7 +17,6 @@ def MyLife(){
 <h3 align="center">A passionate Engineer from India</h3>
 <br>
 
-<br>
 <img align="right" src='https://github.com/Aanvikshiki/Aanvikshiki/blob/main/ai.gif' align='right' width='27%'>
 
 <br>
@@ -47,11 +46,4 @@ def MyLife(){
 - <img align="left" alt="Git" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> **Git**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
-
 <hr/>
-<br/>
-<h3> My Activity</h3> 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanvikshiki&theme=github&area=true&custom_title=Gaurav's%20Activity&hide_border=true)
-
-<br/> 
