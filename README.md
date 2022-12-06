@@ -50,12 +50,8 @@ def MyLife(){
 
 <a href="https://github.com/aanvikshiki">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&theme=dracula" alt="Prince-Hash-Lab" style="width:33%;"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanvikshiki&theme=dracula&hide=java,html,tex&langs_count=3&count_private=true" alt="aanvikshiki" style="width:33%;"/> -->
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanvikshiki&theme=dracula&hide=TeX&layout=compact" alt="aanvikshiki" style="width:33%;"/>
-<!--   &layout=compact -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanvikshiki&layout=compact&theme=dracula" alt="aanvikshiki" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&show_icons=true&theme=dracula" alt="Prince-Hash-Lab" style="width:45%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanvikshiki&layout=compact&theme=dracula" alt="aanvikshiki" style="width:45%;"/>
 </a>
 </p>
 </a>
