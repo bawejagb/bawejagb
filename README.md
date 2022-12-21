@@ -23,7 +23,7 @@ def MyLife(){
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aanvikshiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanvikshiki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aanvikshiki" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aanvikshiki" height="30" width="30" /></a>
 <br><br>
 <a href="https://leetcode.com/aanvikshiki/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="_aanvikshiki" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
@@ -35,10 +35,10 @@ def MyLife(){
 
 <h3 align="left">Languages and Tools:</h3>
 
-- <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
-- <img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />   **C**
-- <img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />   **C++**
-- <img align="left" alt="JS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  **Java Script**
+- <img align="left" alt="Python" width="22px" src="https://img.icons8.com/fluency/512/python.png" />  **Python**
+- <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/512/c-programming.png" />   **C**
+- <img align="left" alt="C++" width="22px" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" />   **C++**
+- <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/512/javascript.png" />  **Java Script**
 - <img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" />  **React.js**
 - <img align="left" alt="Redux" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />  **Redux.js**
 - <img align="left" alt="SQL" width="22px" src="https://cdn-icons-png.flaticon.com/512/29/29594.png" />  **SQL**
