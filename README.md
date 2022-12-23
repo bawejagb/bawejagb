@@ -28,7 +28,7 @@ def MyLife(){
 <a href="https://leetcode.com/aanvikshiki/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="_aanvikshiki" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
 </p>
-<img align="right" width="450" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
+<img align="right" width="380" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 <img align="right" width="150" height="100" src="https://media.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif"/>
 
