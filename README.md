@@ -17,7 +17,7 @@ def MyLife(){
 <h3 align="center">A passionate Engineer from India</h3>
 <br>
 
-<img align="right" src='https://github.com/Aanvikshiki/Aanvikshiki/blob/main/ai.gif' align='right' width='27%'>
+<img align="right" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/d62020ae4772443ce5fc39f2b022b40c.gif" align='right' width='22%'>
 
 <br>
 
@@ -28,9 +28,9 @@ def MyLife(){
 <a href="https://leetcode.com/aanvikshiki/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="_aanvikshiki" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
 </p>
-<img align="right" width="350" alt="Code" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/code.gif"/>
+<img align="right" width="450" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
-<img align="right" width="150" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/>
+<img align="right" width="150" height="100" src="https://media.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,9 +48,20 @@ def MyLife(){
 
 <hr/>
 
-<a href="https://github.com/aanvikshiki">
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanvikshiki&layout=compact&theme=dracula" alt="aanvikshiki" style="width:50%;"/>
-</a>
-</p>
-</a>
+### 📊 Github Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/aanvikshiki/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/aanvikshiki/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanvikshiki&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=aanvikshiki&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
