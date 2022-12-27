@@ -23,9 +23,9 @@ def MyLife(){
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aanvikshiki" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aanvikshiki" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/bawejagb" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aanvikshiki" height="30" width="30" /></a>
 <br><br>
-<a href="https://leetcode.com/aanvikshiki/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="_aanvikshiki" height="30" width="40" /></a>
+<a href="https://leetcode.com/bawejagb/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bawejagb" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
 </p>
 <img align="right" width="380" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
@@ -53,15 +53,15 @@ def MyLife(){
 <table>
   <tr>
     <td>
-      <a href="https://github.com/aanvikshiki/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=aanvikshiki&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=bawejagb&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/aanvikshiki/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanvikshiki&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawejagb&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=aanvikshiki&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=bawejagb&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
