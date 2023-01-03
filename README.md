@@ -61,7 +61,7 @@ def MyLife(){
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=bawejagb&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=bawejagb&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D"  /> </a>
     </td>
   </tr>
 </table>
