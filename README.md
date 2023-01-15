@@ -53,7 +53,7 @@ def MyLife(){
 <table>
   <tr>
     <td>
-      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=bawejagb&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=bawejagb&hide_border=true&show_icons=true" alt="Gaurav's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawejagb&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
