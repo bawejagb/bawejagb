@@ -17,7 +17,7 @@ def MyLife(){
 <h3 align="center">A passionate Engineer from India</h3>
 <br>
 
-<img align="right" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/d62020ae4772443ce5fc39f2b022b40c.gif" align='right' width='22%'>
+<img align="right" src="https://media.tenor.com/ow94qLGI8WsAAAAM/ai.gif" align='right' width='22%'>
 
 <br>
 
