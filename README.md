@@ -17,16 +17,9 @@ def MyLife(){
 <h3 align="center">A passionate Engineer from India</h3>
 <br>
 
-<img align="right" src="https://media.tenor.com/ow94qLGI8WsAAAAM/ai.gif" align='right' width='22%'>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bawejagb" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aanvikshiki" height="30" width="30" /></a>
-<br><br>
-<a href="https://leetcode.com/bawejagb/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bawejagb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gaurav2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav2508" height="30" width="40" /></a>
 </p>
 <img align="right" width="380" alt="Code" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
