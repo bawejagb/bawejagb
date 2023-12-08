@@ -29,7 +29,6 @@ def MyLife(){
 <h3 align="left">Languages and Tools:</h3>
 
 - <img align="left" alt="Python" width="22px" src="https://img.icons8.com/fluency/512/python.png" />  **Python**
-- <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/512/c-programming.png" />   **C**
 - <img align="left" alt="C++" width="22px" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" />   **C++**
 - <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/512/javascript.png" />  **Java Script**
 - <img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" />  **React.js**
@@ -41,15 +40,3 @@ def MyLife(){
 
 <hr/>
 
-### 📊 Github Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=bawejagb&hide_border=true&show_icons=true" alt="Gaurav's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/bawejagb/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawejagb&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-</table>
